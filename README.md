@@ -7,9 +7,13 @@ The Certified Kubernetes Administrator (CKA) syllabus is structured around five 
 CKA Domain Weightings and Syllabus
 
 • Troubleshooting (30%): Focuses on troubleshooting clusters, nodes, components, network services, monitoring resource usage, and managing container logs.
+
 • Cluster Architecture, Installation & Configuration (25%): Covers infrastructure preparation, cluster deployment and lifecycle management via kubeadm, HA control planes, RBAC, Helm/Kustomize, extension interfaces (CNI, CSI, CRI), and CRDs/operators.
+
 • Services & Networking (20%): Involves pod connectivity, host networking, network policies, service types (ClusterIP, NodePort, LoadBalancer), Ingress and Gateway API, CoreDNS, and CNI configurations.
+
 • Workloads & Scheduling (15%): Includes deployments, self-healing primitives (StatefulSets, DaemonSets), config management, autoscaling, scheduling constraints, and Init/sidecar containers.
+
 • Storage (10%): Encompasses storage classes, PVs/PVCs, volume configuration, and persistent storage implementation.
 
 Exam Format Details
